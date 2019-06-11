@@ -1,0 +1,162 @@
+[11-Jun-2019 10:12:22 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 243, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(243): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#9 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#10 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 243 
+
+
+
+[11-Jun-2019 10:14:37 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 243, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(243): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#9 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#10 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 243 
+
+
+
+[11-Jun-2019 10:15:21 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 243, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(243): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#9 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#10 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 243 
+
+
+
+[11-Jun-2019 10:16:54 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 245, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(245): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#9 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#10 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 245 
+
+
+
+[11-Jun-2019 10:20:05 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 245, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(245): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#9 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#10 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 245 
+
+
+
+[11-Jun-2019 10:25:53 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 245, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(245): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#9 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 245 
+
+
+
+[11-Jun-2019 10:26:51 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'mkdir(): Permission denied'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'mkdir(): Permis...', 'C:\\xampp\\htdocs...', 247, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(247): mkdir('../DUMP/BEM \xD0\xB8\xD0...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(187): App\Parser->makeMainInfoFile()
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#8 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#9 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 247 
+
+
+
+[11-Jun-2019 11:12:07 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'file_get_contents(N): failed to open stream: No such file or directory'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 323, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(323): file_get_contents('N')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(189): App\Parser->getVideoFiles('<!DOCTYPE html>...')
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#7 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#8 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 323 
+
+
+
+[11-Jun-2019 11:14:23 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'file_get_contents(N): failed to open stream: No such file or directory'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 325, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(325): file_get_contents('N')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(189): App\Parser->getVideoFiles('<!DOCTYPE html>...')
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#7 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 325 
+
+
+
+[11-Jun-2019 11:23:35 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'file_get_contents(How can BEM help you?): failed to open stream: No such file or directory'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'file_get_conten...', 'C:\\xampp\\htdocs...', 323, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(323): file_get_contents('How can BEM hel...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(189): App\Parser->getVideoFiles('<!DOCTYPE html>...')
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#6 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#7 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 323 
+
+
+
+[11-Jun-2019 11:34:35 Europe/Berlin] Uncaught exception: 'ErrorException' with message 'file_put_contents(../DUMP/BEM или не BEM/1. How can BEM help you.mp4): failed to open stream: No such file or directory'
+Stack trace: #0 [internal function]: Core\Error::errorHandler(2, 'file_put_conten...', 'C:\\xampp\\htdocs...', 325, Array)
+#1 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(325): file_put_contents('../DUMP/BEM \xD0\xB8\xD0...', '\x00\x00\x00 ftypmp42\x00\x00\x00...')
+#2 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(189): App\Parser->getVideoFiles('<!DOCTYPE html>...')
+#3 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(198): App\Parser->getMainInfo()
+#4 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php(142): App\Parser->getMainInfo()
+#5 C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\public\index.php(20): App\Parser->run()
+#6 {main}
+Thrown in 'C:\xampp\htdocs\my.localhost\PARSING\COURSEHUNTER_parsing\app\Parser.php' on line 325 
+
+
+
